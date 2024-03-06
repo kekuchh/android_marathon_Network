@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Посты</string>
+
+    <string name="edit_button">Редактировать</string>
+    <string name="no_post_selected">Пост не выбран</string>
+    <string name="save_button">Сохранить</string>
+    <string name="post_details">Детали поста</string>
+    <string name="title">Заголовок</string>
+    <string name="body">Тект</string>
+    <string name="posts_list">Посты</string>
+</resources>
